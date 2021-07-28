@@ -1,7 +1,9 @@
 # Getting Started with  DT Money App
 
-<img src="https://prnt.sc/1gvy4i7" widh="700" alt="image app dtmoney"/>
-
+<div align="center" styles="margin: 50px">
+    <img src="https://i.imgur.com/WB3okLF_d.webp?maxwidth=760&fidelity=grand" widh="700" alt="image app dtmoney"/>
+    <img src="https://i.imgur.com/SKMxETD_d.webp?maxwidth=760&fidelity=grand" widh="700" alt="image app dtmoney"/>
+</div>
 This project was bootstrapped with React App.
 
 ### `yarn `
